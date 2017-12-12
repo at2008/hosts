@@ -1,0 +1,114 @@
+# Copyright (c) 2017, googlehosts members.
+# https://github.com/googlehosts/hosts
+# https://coding.net/u/scaffrey/p/hosts/git
+# Last updated: 2017-12-10
+
+# https://laod.cn/hosts/2017-google-hosts.html
+
+# Copyright (c) 2014-2017, racaljk.
+# https://github.com/racaljk/hosts
+# Last updated: 2017-10-08
+
+# This work is licensed under a CC BY-NC-SA 4.0 International License.
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
+# docs.microsoft.com End
+104.72.104.202	docs.microsoft.com
+104.115.92.229	docs.microsoft.com
+23.42.165.30	docs.microsoft.com
+104.118.70.210	docs.microsoft.com
+184.26.247.89	docs.microsoft.com
+104.115.128.148	c.microsoft.com
+104.91.181.144	c.microsoft.com
+23.35.104.55	c.microsoft.com
+104.111.200.93	c.microsoft.com
+2.17.59.178	c.microsoft.com
+111.221.29.30	c1.microsoft.com
+223.119.202.23	i.s-microsoft.com
+23.206.254.124	i.s-microsoft.com
+23.43.151.224	i.s-microsoft.com
+23.50.22.164	i.s-microsoft.com
+23.56.28.137	i.s-microsoft.com
+23.57.112.139	i.s-microsoft.com
+104.237.154.26	i.s-microsoft.com
+117.18.232.200	ajax.aspnetcdn.com
+52.206.168.245 	ing-district.clicktale.net
+52.203.201.18	ing-district.clicktale.net
+52.1.201.118	ing-district.clicktale.net
+52.207.5.63	ing-district.clicktale.net
+223.119.248.26	statics-uhf-wus.akamaized.net
+65.200.22.106	statics-uhf-wus.akamaized.net
+23.77.18.146	assets.onestore.ms
+23.38.179.162	assets.onestore.ms
+23.42.165.115	assets.onestore.ms
+23.66.41.130	mem.gfx.ms
+23.41.190.77	mem.gfx.ms
+104.91.178.63	mem.gfx.ms
+23.42.165.115	mem.gfx.ms
+117.18.232.200 	az725175.vo.msecnd.net
+# docs.microsoft.com End
+
+# at2008.visualstudio.com Start
+13.107.6.175	at2008.extmgmt.visualstudio.com
+40.124.13.155 	at2008.vsaex.visualstudio.com
+104.43.203.175	at2008.visualstudio.com
+157.56.75.6	visualstudio.com
+65.54.226.180	visualstudio.com
+157.56.148.39	visualstudio.com
+117.18.232.200	cdn.vsassets.io
+191.238.172.191	vsassets.io
+13.107.6.175	at2008.vsspsext.visualstudio.com
+117.18.232.200	iecvlist.microsoft.com
+104.44.5.72	ae41-0.hk2-96cbe-1b.ntwk.msn.net 
+104.44.225.45	ae0-0.hk2-96cbe-1b.ntwk.msn.net 
+104.44.226.173	ae0-0.hkg-96cbe-1b.ntwk.msn.net
+104.44.225.214	ae5-0.wst-96cbe-1c.ntwk.msn.net
+104.44.4.241	be-3-0.ibr02.stb.ntwk.msn.net
+104.44.4.102	be-6-0.ibr01.cnr03.mwh01.ntwk.msn.net
+104.44.4.113	be-6-0.ibr01.den07.ntwk.msn.net	
+104.44.4.59	be-1-0.ibr02.den07.ntwk.msn.net
+104.44.4.96	be-5-0.ibr01.cnr03.dsm05.ntwk.msn.net
+104.44.10.107	ae101-0.icr01.dsm05.ntwk.msn.net
+129.250.3.28	ae-3.r02.tokyjp05.jp.bb.gin.ntt.net
+120.88.53.198	ae-3.edgecast-networks.tokyjp05.jp.bb.gin.ntt.net
+# at2008.visualstudio.com End
+
+# Github Start
+192.30.253.118	gist.github.com
+192.30.253.119	gist.github.com
+103.245.222.133 assets-cdn.github.com
+192.30.253.112 	assets-cdn.github.com
+151.101.100.133 assets-cdn.github.com
+151.101.72.249	global-ssl.fastly.net
+151.101.88.249  github.global.ssl.fastly.net
+192.30.253.113 	github.com
+192.30.253.113 	https://github.com/
+192.30.255.113	github.com
+192.30.255.113	https://github.com/
+192.30.255.112	github.com
+207.97.227.243	github.com
+207.97.227.239	github.com
+151.101.16.133	avatars0.githubusercontent.com
+151.101.100.133 avatars1.githubusercontent.com
+204.232.175.78	documentcloud.github.com
+107.21.116.220	help.github.com
+207.97.227.252	nodeload.github.com
+199.27.76.130	raw.github.com
+107.22.3.110	status.github.com
+204.232.175.78	training.github.com
+# Github End
+
+# Inoreader Start
+92.247.181.40	https://www.inoreader.com
+# Inoreader End
+
+# Modified Hosts End
