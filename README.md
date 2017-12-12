@@ -1,4 +1,4 @@
-# hosts
+# hosts 说明
 hosts for GitHub, VSTS , Microsoft Docs And Others
 
 ## 修改步骤：
@@ -19,7 +19,7 @@ Unix|/etc/
 - 将下载的 hosts 覆盖到文件夹中
 - 如有需要，请备份原来的hosts
 
-# 让hosts生效
+### 让hosts生效
 
 - Windows
 
