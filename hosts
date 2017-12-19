@@ -1,6 +1,6 @@
-# Copyright (c) 2017, at2008.
+# Copyright (c) 2016-2017, at2008.
 # https://github.com/at2008/hosts
-# Last updated: 2017-12-12
+# Last updated: 2017-10-08
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,7 +14,43 @@
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
 
+173.192.91.155	swiftype.com
+173.192.91.155 	app.swiftype.com
+
+23.101.203.117 	code.visualstudio.com
+191.236.59.67  	code.visualstudio.com
+
+151.101.229.147	theme-next.iissnan.com
+13.124.19.47 	livere.com
+
+# hexo.io Start
+104.28.21.58	hexo.io
+104.28.20.58 	hexo.io
+34.208.205.7 	npmjs.org
+# hexo.io End
+
+# slowread.cn
+# at2008.github.io Begin
+151.101.73.147 	at2008.github.io
+151.101.229.147	at2008.github.io 
+151.101.41.147 	at2008.github.io 
+151.101.197.147	slowread.cn
+# at2008.github.io End
+
+202.89.233.101	cn.bing.com
+202.89.233.100 	cn.bing.com
+204.79.197.200  cn.bing.com
+13.107.21.200  	cn.bing.com
+
+
 # docs.microsoft.com End
+23.38.181.32 	docs.microsoft.com
+23.203.110.208 	docs.microsoft.com
+23.38.164.131 	docs.microsoft.com
+23.58.227.239 	docs.microsoft.com
+184.84.51.108 	docs.microsoft.com
+104.109.230.231	docs.microsoft.com
+23.77.11.211 	docs.microsoft.com
 104.72.104.202	docs.microsoft.com
 104.115.92.229	docs.microsoft.com
 23.42.165.30	docs.microsoft.com
@@ -48,6 +84,8 @@
 104.91.178.63	mem.gfx.ms
 23.42.165.115	mem.gfx.ms
 117.18.232.200 	az725175.vo.msecnd.net
+137.116.171.195	cs.microsoft.com
+13.85.19.92 	marketplace.visualstudio.com
 # docs.microsoft.com End
 
 # at2008.visualstudio.com Start
@@ -58,6 +96,7 @@
 65.54.226.180	visualstudio.com
 157.56.148.39	visualstudio.com
 117.18.232.200	cdn.vsassets.io
+72.21.81.200	cdn.vsassets.io
 191.238.172.191	vsassets.io
 13.107.6.175	at2008.vsspsext.visualstudio.com
 117.18.232.200	iecvlist.microsoft.com
@@ -93,6 +132,11 @@
 192.30.253.113	github.com
 192.30.253.112	github.com
 151.101.72.133	avatars0.githubusercontent.com
+151.101.0.133	avatars0.githubusercontent.com
+151.101.228.133	avatars0.githubusercontent.com
+151.101.228.133 avatars1.githubusercontent.com
+151.101.40.133 	avatars1.githubusercontent.com
+151.101.0.133 	avatars1.githubusercontent.com
 151.101.196.133 avatars1.githubusercontent.com
 151.101.72.133	documentcloud.github.com
 151.101.196.133	documentcloud.github.com
@@ -108,9 +152,33 @@
 192.30.253.166	training.github.com
 # Github End
 
+# Google Start
+74.125.204.113	translate.google.com
+74.125.204.139 	translate.google.com
+74.125.204.138	translate.google.com
+74.125.204.102 	translate.google.com
+74.125.204.100 	translate.google.com
+74.125.204.101 	translate.google.com
+# Google End
+# Facebook Start
+31.13.81.1	connect.facebook.com
+31.13.71.23	connect.facebook.com
+69.171.232.21	connect.facebook.com
+31.13.80.1	facebook.com
+69.63.187.12	facebook.com
+69.63.176.143	facebook.com
+208.43.237.140	www.facebook.com
+69.171.247.71	www.facebook.com
+31.13.66.1	www.facebook.com
+# Facebook End
+
 # Inoreader Start
 92.247.181.40	inoreader.com
 # Inoreader End
 
-# Modified Hosts End
+110.80.135.14	tool.chinaz.com
+117.25.139.88	tool.chinaz.com
+221.5.43.92	tool.chinaz.com
+221.5.47.87	tool.chinaz.com
 
+# Modified Hosts End
